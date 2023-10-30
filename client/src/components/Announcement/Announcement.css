@@ -1,0 +1,25 @@
+/* Announcement.css */
+
+.announcement-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly; 
+    border: 2px solid red;
+    text-align: center;
+    margin: 55px 0;
+    padding: 20px;
+    background-color: #F7F8FC;
+  }
+  
+  .announcement-slider {
+    margin: 0 auto;
+    max-width: 400px; /* Adjust the width as needed */
+    text-align: left;
+  }
+  
+  .announcement-slide {
+    padding: 10px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+  }
+  
