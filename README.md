@@ -24,22 +24,6 @@ An Autonomous Blogging Platform for Preserving and Exploring Indian Heritage
 - **Project Management**: Agile (Scrum)
 
 
-## 📂 **Project Structure**
--IndiBlogs/
--├── client/           # React frontend
--│   ├── public/
--│   ├── src/
--│   │   ├── components/  # Reusable components
--│   │   ├── pages/       # Application pages (Home, Blogs, etc.)
--│   │   └── ...
--├── server/           # Express backend
--│   ├── models/       # Mongoose models
--│   ├── routes/       # API routes
--│   ├── controllers/  # Business logic
--│   └── ...
--└── README.md         # Project documentation
-
-
 The Screenshots of the website can be seen below. 
 ![Image](https://github.com/HarshT18/IndiBlogs_/blob/master/ss%20search%20tags.png?raw=true)
 ![Image](https://github.com/HarshT18/IndiBlogs_/blob/master/ss%20blog.png?raw=true)
