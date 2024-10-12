@@ -1,6 +1,6 @@
 # IndiBlogs
 
-![Memories](https://i.ibb.co/7CmVbCW/image.png)
+![Memories]([https://github.com/HarshT18/IndiBlogs_/blob/master/ss%20search%20tags.png?raw=true])
 
 ## Introduction
 
