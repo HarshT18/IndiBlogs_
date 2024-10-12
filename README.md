@@ -64,10 +64,10 @@ Our testing approach includes:
 
 
 ## 🌟 Upcoming Features
-Collaborative Blogging: Multiple users will be able to co-author posts.
-Language Support: Introducing multi-language blogging.
-Machine Learning Integration: Personalized blog recommendations using machine learning algorithms.
-Mobile App: Launching mobile app versions for iOS and Android.
+- **Collaborative Blogging**: Multiple users will be able to co-author posts.
+- **Language Support**: Introducing multi-language blogging.
+- **Machine Learning Integration**: Personalized blog recommendations using machine learning algorithms.
+- **Mobile App**: Launching mobile app versions for iOS and Android.
 
 This project was part of the Software Engineering course
 Project Topic : "Autonomous System for Societal
