@@ -42,11 +42,12 @@ The user profile looks like below example
 ##📊 Project Goals
 IndiBlogs not only aims to provide a digital repository for cultural knowledge but also fosters active participation from users in shaping and sharing content. By integrating modern web technologies and responsive design, it ensures a user-friendly experience for a diverse audience. The project adheres to software accessibility and inclusivity standards.
 
-##🛠️ Development Process
+## 🛠️ Development Process
 We implemented Agile (Scrum) methodologies throughout the project. Here’s a summary of our approach:
 
-Sprint Planning & Execution: We divided the project into small, manageable sprints, ensuring regular feedback and adaptability.
-Scrum Framework: Daily stand-ups and bi-weekly retrospectives helped us stay on track and adjust to changing requirements.
+- **Sprint Planning & Execution**: We divided the project into small, manageable sprints, ensuring regular feedback and adaptability.
+- **Scrum Framework**: Daily stand-ups and bi-weekly retrospectives helped us stay on track and adjust to changing requirements.
+
 Key Tools Used:
 
 UML Diagrams: For system modeling and visualization.
