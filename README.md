@@ -1,7 +1,8 @@
 # IndiBlogs
 
-![Memories]([https://github.com/HarshT18/IndiBlogs_/blob/master/ss%20search%20tags.png])
 
+
+![Image](https://github.com/HarshT18/IndiBlogs_/blob/master/ss%20search%20tags.png?raw=true)
 ## Introduction
 
 This project is part of Software Engineering course
